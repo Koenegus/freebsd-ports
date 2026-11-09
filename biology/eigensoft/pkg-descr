@@ -1,0 +1,9 @@
+The EIGENSOFT package combines functionality from population genetics
+methods (Patterson et al. 2006) and the EIGENSTRAT stratification
+correction method (Price et al. 2006).
+
+EIGENSTRAT uses principal components analysis (PCA) to explicitly model
+ancestry differences between cases and controls along continuous axes of
+variation; the resulting correction is specific to a candidate marker's
+variation in frequency across ancestral populations, minimizing spurious
+associations while maximizing power to detect true associations.

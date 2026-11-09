@@ -1,0 +1,14 @@
+bin/baseprog
+bin/eigenstrat
+bin/eigenstratQTL
+bin/evec2pca.perl
+bin/gc.perl
+bin/pca
+bin/pcatoy
+bin/ploteig
+bin/smarteigenstrat
+bin/smarteigenstrat.perl
+bin/smartpca
+bin/smartpca.perl
+bin/smartrel
+bin/twstats

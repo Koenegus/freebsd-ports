@@ -1,0 +1,6 @@
+ADMIXTOOLS is a collection of programs for analyzing admixture
+and population history using genome-wide SNP data.
+
+It includes tools for calculating f-statistics, estimating
+admixture proportions, building admixture graphs and performing
+related population genetics analyses.
